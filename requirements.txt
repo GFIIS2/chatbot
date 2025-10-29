@@ -1,2 +1,7 @@
-streamlit
-openai
+langchain==1.0.2
+streamlit==1.50.0
+openai==0.27.8
+pinecone
+sentence-transformers
+pypdf
+numpy
